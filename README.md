@@ -5,7 +5,7 @@ The energy market has had a lot of change in recent years and there are more opt
 PowerCo are concerned about their customers leaving for better offers from other energy providers. When a customer leaves to use another service provider, this is called churn.
 This is becoming a big issue for PowerCo 
 # Task 1
-The client has sent over 3 data sets (shown below):
+The client has sent over 3 data sets:
 * Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
 * Historical pricing data: variable and fixed pricing data etc
 * Churn indicator: whether each customer has churned or not
